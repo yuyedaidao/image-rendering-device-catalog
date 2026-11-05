@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "devices": [
+    {
+      "id": "iPhone 18 Pro Max",
+      "name": "iPhone 18 Pro Max",
+      "modelIdentifier": "iPhone19,3",
+      "pointsWidth": 440.0,
+      "pointsHeight": 956.0,
+      "pixelWidth": 1320,
+      "pixelHeight": 2868,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 18 Pro",
+      "name": "iPhone 18 Pro",
+      "modelIdentifier": "iPhone19,2",
+      "pointsWidth": 402.0,
+      "pointsHeight": 874.0,
+      "pixelWidth": 1206,
+      "pixelHeight": 2622,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone Air",
+      "name": "iPhone Air",
+      "modelIdentifier": "iPhone18,4",
+      "pointsWidth": 420.0,
+      "pointsHeight": 912.0,
+      "pixelWidth": 1260,
+      "pixelHeight": 2736,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 17 Pro Max",
+      "name": "iPhone 17 Pro Max",
+      "modelIdentifier": "iPhone18,2",
+      "pointsWidth": 440.0,
+      "pointsHeight": 956.0,
+      "pixelWidth": 1320,
+      "pixelHeight": 2868,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 17 Pro",
+      "name": "iPhone 17 Pro",
+      "modelIdentifier": "iPhone18,1",
+      "pointsWidth": 402.0,
+      "pointsHeight": 874.0,
+      "pixelWidth": 1206,
+      "pixelHeight": 2622,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 17",
+      "name": "iPhone 17",
+      "modelIdentifier": "iPhone18,3",
+      "pointsWidth": 402.0,
+      "pointsHeight": 874.0,
+      "pixelWidth": 1206,
+      "pixelHeight": 2622,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 16e",
+      "name": "iPhone 16e",
+      "modelIdentifier": "iPhone17,5",
+      "pointsWidth": 390.0,
+      "pointsHeight": 844.0,
+      "pixelWidth": 1170,
+      "pixelHeight": 2532,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone 16 Pro Max",
+      "name": "iPhone 16 Pro Max",
+      "modelIdentifier": "iPhone17,2",
+      "pointsWidth": 440.0,
+      "pointsHeight": 956.0,
+      "pixelWidth": 1320,
+      "pixelHeight": 2868,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 16 Pro",
+      "name": "iPhone 16 Pro",
+      "modelIdentifier": "iPhone17,1",
+      "pointsWidth": 402.0,
+      "pointsHeight": 874.0,
+      "pixelWidth": 1206,
+      "pixelHeight": 2622,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 16 Plus",
+      "name": "iPhone 16 Plus",
+      "modelIdentifier": "iPhone17,4",
+      "pointsWidth": 430.0,
+      "pointsHeight": 932.0,
+      "pixelWidth": 1290,
+      "pixelHeight": 2796,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 16",
+      "name": "iPhone 16",
+      "modelIdentifier": "iPhone17,3",
+      "pointsWidth": 393.0,
+      "pointsHeight": 852.0,
+      "pixelWidth": 1179,
+      "pixelHeight": 2556,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 15 Pro Max",
+      "name": "iPhone 15 Pro Max",
+      "modelIdentifier": "iPhone16,2",
+      "pointsWidth": 430.0,
+      "pointsHeight": 932.0,
+      "pixelWidth": 1290,
+      "pixelHeight": 2796,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 15 Pro",
+      "name": "iPhone 15 Pro",
+      "modelIdentifier": "iPhone16,1",
+      "pointsWidth": 393.0,
+      "pointsHeight": 852.0,
+      "pixelWidth": 1179,
+      "pixelHeight": 2556,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 15 Plus",
+      "name": "iPhone 15 Plus",
+      "modelIdentifier": "iPhone15,5",
+      "pointsWidth": 430.0,
+      "pointsHeight": 932.0,
+      "pixelWidth": 1290,
+      "pixelHeight": 2796,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 15",
+      "name": "iPhone 15",
+      "modelIdentifier": "iPhone15,4",
+      "pointsWidth": 393.0,
+      "pointsHeight": 852.0,
+      "pixelWidth": 1179,
+      "pixelHeight": 2556,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 14 Pro Max",
+      "name": "iPhone 14 Pro Max",
+      "modelIdentifier": "iPhone15,3",
+      "pointsWidth": 430.0,
+      "pointsHeight": 932.0,
+      "pixelWidth": 1290,
+      "pixelHeight": 2796,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 14 Pro",
+      "name": "iPhone 14 Pro",
+      "modelIdentifier": "iPhone15,2",
+      "pointsWidth": 393.0,
+      "pointsHeight": 852.0,
+      "pixelWidth": 1179,
+      "pixelHeight": 2556,
+      "statusBarHeight": 54
+    },
+    {
+      "id": "iPhone 14 Plus",
+      "name": "iPhone 14 Plus",
+      "modelIdentifier": "iPhone14,8",
+      "pointsWidth": 428.0,
+      "pointsHeight": 926.0,
+      "pixelWidth": 1284,
+      "pixelHeight": 2778,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone 14",
+      "name": "iPhone 14",
+      "modelIdentifier": "iPhone14,7",
+      "pointsWidth": 390.0,
+      "pointsHeight": 844.0,
+      "pixelWidth": 1170,
+      "pixelHeight": 2532,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone SE (3rd generation)",
+      "name": "iPhone SE (3rd generation)",
+      "modelIdentifier": "iPhone14,6",
+      "pointsWidth": 375.0,
+      "pointsHeight": 667.0,
+      "pixelWidth": 750,
+      "pixelHeight": 1334,
+      "statusBarHeight": 20
+    },
+    {
+      "id": "iPhone 13 mini",
+      "name": "iPhone 13 mini",
+      "modelIdentifier": "iPhone14,4",
+      "pointsWidth": 360.0,
+      "pointsHeight": 780.0,
+      "pixelWidth": 1080,
+      "pixelHeight": 2340,
+      "statusBarHeight": 50
+    },
+    {
+      "id": "iPhone 13 Pro Max",
+      "name": "iPhone 13 Pro Max",
+      "modelIdentifier": "iPhone14,3",
+      "pointsWidth": 428.0,
+      "pointsHeight": 926.0,
+      "pixelWidth": 1284,
+      "pixelHeight": 2778,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone 13 Pro",
+      "name": "iPhone 13 Pro",
+      "modelIdentifier": "iPhone14,2",
+      "pointsWidth": 390.0,
+      "pointsHeight": 844.0,
+      "pixelWidth": 1170,
+      "pixelHeight": 2532,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone 13",
+      "name": "iPhone 13",
+      "modelIdentifier": "iPhone14,5",
+      "pointsWidth": 390.0,
+      "pointsHeight": 844.0,
+      "pixelWidth": 1170,
+      "pixelHeight": 2532,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone 12 mini",
+      "name": "iPhone 12 mini",
+      "modelIdentifier": "iPhone13,1",
+      "pointsWidth": 360.0,
+      "pointsHeight": 780.0,
+      "pixelWidth": 1080,
+      "pixelHeight": 2340,
+      "statusBarHeight": 44
+    },
+    {
+      "id": "iPhone 12 Pro Max",
+      "name": "iPhone 12 Pro Max",
+      "modelIdentifier": "iPhone13,4",
+      "pointsWidth": 428.0,
+      "pointsHeight": 926.0,
+      "pixelWidth": 1284,
+      "pixelHeight": 2778,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone 12 Pro",
+      "name": "iPhone 12 Pro",
+      "modelIdentifier": "iPhone13,3",
+      "pointsWidth": 390.0,
+      "pointsHeight": 844.0,
+      "pixelWidth": 1170,
+      "pixelHeight": 2532,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone 12",
+      "name": "iPhone 12",
+      "modelIdentifier": "iPhone13,2",
+      "pointsWidth": 390.0,
+      "pointsHeight": 844.0,
+      "pixelWidth": 1170,
+      "pixelHeight": 2532,
+      "statusBarHeight": 47
+    },
+    {
+      "id": "iPhone SE (2nd generation)",
+      "name": "iPhone SE (2nd generation)",
+      "modelIdentifier": "iPhone12,8",
+      "pointsWidth": 375.0,
+      "pointsHeight": 667.0,
+      "pixelWidth": 750,
+      "pixelHeight": 1334,
+      "statusBarHeight": 20
+    },
+    {
+      "id": "iPhone 11 Pro Max",
+      "name": "iPhone 11 Pro Max",
+      "modelIdentifier": "iPhone12,5",
+      "pointsWidth": 414.0,
+      "pointsHeight": 896.0,
+      "pixelWidth": 1242,
+      "pixelHeight": 2688,
+      "statusBarHeight": 44
+    },
+    {
+      "id": "iPhone 11 Pro",
+      "name": "iPhone 11 Pro",
+      "modelIdentifier": "iPhone12,3",
+      "pointsWidth": 375.0,
+      "pointsHeight": 812.0,
+      "pixelWidth": 1125,
+      "pixelHeight": 2436,
+      "statusBarHeight": 44
+    },
+    {
+      "id": "iPhone 11",
+      "name": "iPhone 11",
+      "modelIdentifier": "iPhone12,1",
+      "pointsWidth": 414.0,
+      "pointsHeight": 896.0,
+      "pixelWidth": 828,
+      "pixelHeight": 1792,
+      "statusBarHeight": 44
+    },
+    {
+      "id": "iPhone XR",
+      "name": "iPhone XR",
+      "modelIdentifier": "iPhone11,8",
+      "pointsWidth": 414.0,
+      "pointsHeight": 896.0,
+      "pixelWidth": 828,
+      "pixelHeight": 1792,
+      "statusBarHeight": 44
+    },
+    {
+      "id": "iPhone XS Max",
+      "name": "iPhone XS Max",
+      "modelIdentifier": "iPhone11,4",
+      "pointsWidth": 414.0,
+      "pointsHeight": 896.0,
+      "pixelWidth": 1242,
+      "pixelHeight": 2688,
+      "statusBarHeight": 44
+    },
+    {
+      "id": "iPhone XS",
+      "name": "iPhone XS",
+      "modelIdentifier": "iPhone11,2",
+      "pointsWidth": 375.0,
+      "pointsHeight": 812.0,
+      "pixelWidth": 1125,
+      "pixelHeight": 2436,
+      "statusBarHeight": 44
+    },
+    {
+      "id": "iPhone X",
+      "name": "iPhone X",
+      "modelIdentifier": "iPhone10,6",
+      "pointsWidth": 375.0,
+      "pointsHeight": 812.0,
+      "pixelWidth": 1125,
+      "pixelHeight": 2436,
+      "statusBarHeight": 44
+    },
+    {
+      "id": "iPhone 8 Plus",
+      "name": "iPhone 8 Plus",
+      "modelIdentifier": "iPhone10,5",
+      "pointsWidth": 414.0,
+      "pointsHeight": 736.0,
+      "pixelWidth": 1080,
+      "pixelHeight": 1920,
+      "statusBarHeight": 20
+    },
+    {
+      "id": "iPhone 8",
+      "name": "iPhone 8",
+      "modelIdentifier": "iPhone10,4",
+      "pointsWidth": 375.0,
+      "pointsHeight": 667.0,
+      "pixelWidth": 750,
+      "pixelHeight": 1334,
+      "statusBarHeight": 20
+    },
+    {
+      "id": "iPhone 7 Plus",
+      "name": "iPhone 7 Plus",
+      "modelIdentifier": "iPhone9,2",
+      "pointsWidth": 414.0,
+      "pointsHeight": 736.0,
+      "pixelWidth": 1080,
+      "pixelHeight": 1920,
+      "statusBarHeight": 20
+    },
+    {
+      "id": "iPhone 7",
+      "name": "iPhone 7",
+      "modelIdentifier": "iPhone9,1",
+      "pointsWidth": 375.0,
+      "pointsHeight": 667.0,
+      "pixelWidth": 750,
+      "pixelHeight": 1334,
+      "statusBarHeight": 20
+    }
+  ]
+}
